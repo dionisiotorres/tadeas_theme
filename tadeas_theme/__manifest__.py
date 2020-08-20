@@ -2,7 +2,7 @@
     'name': 'Theme Tadeas',
     'category': 'Theme/eCommerce',
     'summary': 'Theme Tadeas is Odoo Multipurpose Theme'
-               'with Modern style, Extremely customizable, Clean and Fully Responsive.',
+               'with Modern style, Extremely customizable, Clean and Fully Responsive..',
     'description': 'Theme Tadeas is Odoo Multipurpose Theme'
                    'with Modern style, Extremely customizable, Clean and Fully Responsive.',
     'version': '13.0.1.0.0',
