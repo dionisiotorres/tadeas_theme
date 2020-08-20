@@ -36,10 +36,6 @@
         'website_sale_wishlist',
         'website_sale_comparison',
         'website_sale_stock',
-        # ================================================================ #
-        # TecSpek Extra Addons
-        # ================================================================ #
-
         'website_product_quick_view',
         'website_product_carousel',
         'website_product_brand',
