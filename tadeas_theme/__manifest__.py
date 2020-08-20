@@ -40,9 +40,9 @@
         # TecSpek Extra Addons
         # ================================================================ #
 
-        # 'website_product_quick_view',
-        # 'website_product_carousel',
-        # 'website_product_brand',
+        'website_product_quick_view',
+        'website_product_carousel',
+        'website_product_brand',
     ],
     'demo': [
         'data/brand_demo.xml',
